@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Ejercicio4Bucles/1.0.0": {
+        "runtime": {
+          "Ejercicio4Bucles.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejercicio4Bucles/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
